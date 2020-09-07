@@ -1,2 +1,2 @@
-var a=123;
-var b="Akash";
+var a=3123;
+var b="Ak";
